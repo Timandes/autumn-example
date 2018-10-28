@@ -1,0 +1,12 @@
+{
+    "name": "autumn/autumn-example",
+    "type": "project",
+    "require": {
+        "autumn/autumn-framework": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Market\\": "src/"
+        }
+    }
+}
