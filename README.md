@@ -1,2 +1,7 @@
-# autumn-example
-Autumn Framework Example
+# Autumn Framework Example
+
+## Getting Started
+
+```
+php index.php
+```
