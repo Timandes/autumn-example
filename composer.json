@@ -2,7 +2,7 @@
     "name": "autumn/autumn-example",
     "type": "project",
     "require": {
-        "autumn/autumn-framework": "dev-master"
+        "autumn/autumn-framework": "~0.0.1"
     },
     "autoload": {
         "psr-4": {

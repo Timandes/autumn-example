@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1b1ddb4e70e972d5f0d34682a5010e31",
-    "content-hash": "8b207705c4e781d427beaffd077955ad",
+    "hash": "73ab89fd89146219380dda0a48cd84e6",
+    "content-hash": "739f7cb2042f2535fac6dbd9e8afd391",
     "packages": [
         {
             "name": "autumn/autumn-framework",
-            "version": "dev-master",
+            "version": "v0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Timandes/autumn-framework.git",
-                "reference": "fbebb3bcea6ec62c58b36a45d3337efc26c06ed6"
+                "reference": "a90aefdabb484e0677c57b922ded33bbe543a576"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Timandes/autumn-framework/zipball/fbebb3bcea6ec62c58b36a45d3337efc26c06ed6",
-                "reference": "fbebb3bcea6ec62c58b36a45d3337efc26c06ed6",
+                "url": "https://api.github.com/repos/Timandes/autumn-framework/zipball/a90aefdabb484e0677c57b922ded33bbe543a576",
+                "reference": "a90aefdabb484e0677c57b922ded33bbe543a576",
                 "shasum": ""
             },
             "require": {
@@ -58,7 +58,7 @@
                 "spring",
                 "swoole"
             ],
-            "time": "2018-10-28 14:10:25"
+            "time": "2018-10-28 14:28:17"
         },
         {
             "name": "doctrine/annotations",
@@ -233,9 +233,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "autumn/autumn-framework": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
